@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 
-folder_path = "C:/Users/Nasser/Desktop/AllaM"
+folder_path = "C:/Users/Nasser/Desktop/Nase"
 quran_path="D:/projects/Quran-Grammar-Scraping/Quran_Grammar.csv"
 paths=[]
 
